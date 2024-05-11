@@ -1,0 +1,18 @@
+[
+    {
+        "tag": "messyFloor",
+        "confidence": 0.98835206
+    },
+    {
+        "tag": "unmadeBed",
+        "confidence": 0.6992655
+    },
+    {
+        "tag": "clutteredDrawer",
+        "confidence": 0.6026232
+    },
+    {
+        "tag": "trash",
+        "confidence": 1.6078868e-05
+    }
+]
