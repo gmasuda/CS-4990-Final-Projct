@@ -113,6 +113,3 @@ if __name__ == '__main__':
     #RoomDetection()
     #Test()
     CreateDescription()
-
-
-#"sk-proj-pvkj1AGcmG81HOXervwDT3BlbkFJ25b7dNGRLprL0o76BZbM"
